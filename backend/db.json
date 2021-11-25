@@ -29,6 +29,11 @@
       "name": "Bicicleta",
       "price": "1899.85",
       "id": 6
+    },
+    {
+      "name": "Monitor",
+      "price": "500.00",
+      "id": 7
     }
   ]
 }
