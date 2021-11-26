@@ -3,12 +3,12 @@
     {
       "id": 1,
       "name": "Caneta Bic Preta",
-      "price": 5.89
+      "price": "5.90"
     },
     {
       "id": 2,
       "name": "Notebook Mac Pro",
-      "price": 12000.9
+      "price": "14000"
     },
     {
       "id": 3,
@@ -16,8 +16,8 @@
       "price": 5000.89
     },
     {
-      "name": "Geladeira",
-      "price": "1913.99",
+      "name": "Geladeira Eletrolux",
+      "price": "5000",
       "id": 4
     },
     {
