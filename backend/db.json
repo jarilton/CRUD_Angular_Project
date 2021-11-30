@@ -11,13 +11,8 @@
       "price": 5000.89
     },
     {
-      "name": "Geladeira Eletrolux",
-      "price": "5000",
-      "id": 4
-    },
-    {
-      "name": "Veio do formulario do jamal",
-      "price": "10.99",
+      "name": "Carro",
+      "price": "45000",
       "id": 5
     },
     {
@@ -29,6 +24,11 @@
       "name": "Monitor",
       "price": "450.00",
       "id": 7
+    },
+    {
+      "name": "Mochila",
+      "price": "40",
+      "id": 8
     }
   ]
 }
